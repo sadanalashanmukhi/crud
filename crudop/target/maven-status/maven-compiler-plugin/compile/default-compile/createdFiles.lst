@@ -1,0 +1,4 @@
+com\crud\controller\crudController.class
+com\crud\CrudopApplication.class
+com\crud\model\crud.class
+com\crud\repository\crudRepository.class
